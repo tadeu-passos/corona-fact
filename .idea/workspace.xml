@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5ad9937-45a6-46be-8db6-d9e5f4beab41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/corona-fact-react/src/Charts/nivo01.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/corona-fact-react/src/Maths/odex.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/corona-fact-react/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/corona-fact-react/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/corona-fact-react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/corona-fact-react/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/corona-fact-react/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/corona-fact-react/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Pandemia-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandemia.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,14 +15,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/corona-fact-react" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Zrmy9j7qch6swHFHaHa4PKoJWZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webscraping-adriana" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -46,6 +54,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585605838798</updated>
       <workItem from="1585605840506" duration="4261000" />
+      <workItem from="1585782400739" duration="535000" />
+      <workItem from="1585783126743" duration="10000" />
     </task>
     <servers />
   </component>
@@ -57,7 +67,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
